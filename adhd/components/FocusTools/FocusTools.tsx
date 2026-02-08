@@ -67,9 +67,7 @@ const FocusTools = (props: Props) => {
           <button className="p-2 hover:bg-slate-100 rounded-lg transition-colors">
             <Volume2 size={20} className="text-blue-500" />
           </button>
-          <button className="p-2 hover:bg-slate-100 rounded-lg transition-colors">
-            <VolumeX size={20} className="text-slate-400" />
-          </button>
+          
         </div>
       </div>
 
